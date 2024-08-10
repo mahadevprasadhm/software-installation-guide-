@@ -1,0 +1,8 @@
+Step1
+Download git(Standalone Installer) :https://git-scm.com/download/win
+
+Step2
+Install git
+
+Step3
+Verify Git installed successfully or not using git --version command
